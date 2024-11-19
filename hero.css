@@ -1,0 +1,32 @@
+
+#hero {
+  
+  background-color: black;
+  color: white;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.lead{
+  max-width: 600px;
+  line-height: 1.6;
+  margin: 0 auto;
+}
+
+.bulb-img {
+  max-width: 150px; 
+  max-height: 170px; 
+ 
+}
+@media (max-width:768px) {
+  .bulb-img{
+    margin-top: 30px;
+  }
+}
+@media (min-width: 992px) {
+  #hero .d-flex {
+    flex-direction: column !important;
+  }
+  
+}

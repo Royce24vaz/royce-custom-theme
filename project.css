@@ -1,0 +1,19 @@
+#projects{
+    background-color:black ;
+    color: white;
+    text-align: center;
+
+}
+.project-img-1{
+    padding: 10px;
+}
+@media (max-width:768px){
+
+.header-section h2{
+ font-size: 28px;
+ font-weight: 400;
+}
+.header-section p{
+    font-size: 18px;
+}
+}

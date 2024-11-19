@@ -1,0 +1,30 @@
+#casestudy{
+        background-color: #222222;
+        color: white;
+      }
+      
+      .round-grey {
+        background-color: #ffffff;
+        border-radius: 10px;
+        color: #888;
+      }
+      
+      .round-grey img {
+        border: 2px solid #ddd;
+      }
+      
+      .highlights {
+        color: #ffbb00;
+      }
+      
+      .name-pos h5 {
+        font-size: 1rem;
+        font-weight: bold;
+        color: black;
+      }
+      
+      .name-pos p {
+        font-size: 0.9rem;
+        color: #888;
+      }
+      

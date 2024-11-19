@@ -1,0 +1,27 @@
+.cta {
+  background-color: #ffbb00; /* Light grey background */
+  color: #000000; /* Dark text */
+}
+
+.cta-heading {
+  font-size: 1.25rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.cta button {
+  font-size: 1rem;
+  font-weight: bold;
+  padding: 0.75rem 1.5rem;
+  border-radius: 30px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.cta button:hover {
+  background-color: #000000; /* Darker shade on hover */
+  color: #ffffff; /* Ensure white text on hover */
+}
